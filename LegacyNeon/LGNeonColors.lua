@@ -1,3 +1,5 @@
+--Basically this recolors the RGB Neon values to how it originally was before the 2019 update that removed legacy lighting and neon.
+
 function changecolors(Neon)
 	if Neon.Material == Enum.Material.Neon then
 		if Neon.Color == Color3.fromRGB(39, 70, 45) then -- Earth green
