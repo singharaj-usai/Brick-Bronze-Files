@@ -16,6 +16,6 @@
 
 ## Links
 
-Discord: https://discord.gg/z9HqXQdkDe
+🌐 Discord: https://discord.gg/z9HqXQdkDe
 
 
